@@ -1,0 +1,74 @@
+﻿  ball.cpp
+C:\Users\Yar\source\repos\PinPon\Ball.h(14,23): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ball.cpp")
+  
+C:\Users\Yar\source\repos\PinPon\Ball.h(16,23): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ball.cpp")
+  
+  bat.cpp
+C:\Users\Yar\source\repos\PinPon\Bat.h(11,22): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "bat.cpp")
+  
+  block.cpp
+  levels.cpp
+C:\Users\Yar\source\repos\PinPon\bat.h(11,22): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "levels.cpp")
+  
+C:\Users\Yar\source\repos\PinPon\ball.h(14,23): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "levels.cpp")
+  
+C:\Users\Yar\source\repos\PinPon\ball.h(16,23): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "levels.cpp")
+  
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,39): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,39): warning C4244:         with
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,39): warning C4244:         [
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,39): warning C4244:             _Ty2=int
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,39): warning C4244:         ]
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,26): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,26): warning C4244:         with
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,26): warning C4244:         [
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,26): warning C4244:             _Ty1=int
+C:\Users\Yar\source\repos\PinPon\levels.cpp(60,26): warning C4244:         ]
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,39): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,39): warning C4244:         with
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,39): warning C4244:         [
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,39): warning C4244:             _Ty2=int
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,39): warning C4244:         ]
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,26): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,26): warning C4244:         with
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,26): warning C4244:         [
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,26): warning C4244:             _Ty1=int
+C:\Users\Yar\source\repos\PinPon\levels.cpp(112,26): warning C4244:         ]
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,39): warning C4244: аргумент: преобразование "_Ty2" в "float", возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,39): warning C4244:         with
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,39): warning C4244:         [
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,39): warning C4244:             _Ty2=int
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,39): warning C4244:         ]
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,26): warning C4244: аргумент: преобразование "_Ty1" в "float", возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,26): warning C4244:         with
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,26): warning C4244:         [
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,26): warning C4244:             _Ty1=int
+C:\Users\Yar\source\repos\PinPon\levels.cpp(311,26): warning C4244:         ]
+C:\Users\Yar\source\repos\PinPon\levels.cpp(366,58): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(367,39): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Yar\source\repos\PinPon\levels.cpp(369,42): warning C4305: =: усечение из "double" в "float"
+C:\Users\Yar\source\repos\PinPon\levels.cpp(373,59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(374,39): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Yar\source\repos\PinPon\levels.cpp(376,42): warning C4305: =: усечение из "double" в "float"
+C:\Users\Yar\source\repos\PinPon\levels.cpp(435,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Yar\source\repos\PinPon\levels.cpp(435,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  main.cpp
+C:\Users\Yar\source\repos\PinPon\bat.h(11,22): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Yar\source\repos\PinPon\ball.h(14,23): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Yar\source\repos\PinPon\ball.h(16,23): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Yar\source\repos\PinPon\main.cpp(69,57): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+  Выполнение Code Analysis для C/C++...
+  Создание кода...
+  PinPon.vcxproj -> C:\Users\Yar\source\repos\PinPon\x64\Debug\PinPon.exe

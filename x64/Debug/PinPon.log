@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Yar\source\repos\PinPon\bat.h(11,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Yar\source\repos\PinPon\ball.h(14,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Yar\source\repos\PinPon\ball.h(16,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Yar\source\repos\PinPon\main.cpp(69,57): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+  PinPon.vcxproj -> C:\Users\Yar\source\repos\PinPon\x64\Debug\PinPon.exe
